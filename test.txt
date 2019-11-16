@@ -1,4 +1,4 @@
-Hello Test
+All commads for Git
 Shafiur Rahman
 https://git-scm.com/download/win
 git clone https://github.com/Shafiurcse02/gittutorial.git
